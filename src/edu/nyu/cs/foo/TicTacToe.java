@@ -4,9 +4,10 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 /**
- * This is a test class.
- * @author John Doe
- * @version 1.0
+ * A simple bame of Tic Tac Toe.
+ * 
+ * @author Foo Barstein
+ * @version 0.2
  */
 public class TicTacToe {
 
